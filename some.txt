@@ -1,4 +1,4 @@
-theme: Midnight
+theme: MIDNIGHT
 some text
 
 new text
